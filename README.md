@@ -29,7 +29,7 @@ The most important scripts are:
 - `daengrpo.py` — Danish GRPO with English support
 - `improvedtranslate.py` — dataset translation script
 
-Some scripts contain local paths, model names, or output folders used during the thesis. These may need to be changed before running the code in another environment.
+Some scripts contain local paths, model names, or output folders used during the thesis. These need to be changed before running the code in another environment.
 
 ## Dataset
 
